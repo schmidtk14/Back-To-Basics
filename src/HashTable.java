@@ -12,7 +12,7 @@ class HashNode<K, V>{
     }
 }
 
-class HashTable<K, V>{
+class       HashTable<K, V>{
     private ArrayList<HashNode<K, V>> bucketArray;
     private int numBuckets;
     private int size;
