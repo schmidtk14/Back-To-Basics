@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/interview practice.iml" filepath="$PROJECT_DIR$/interview practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BacktoBasics.iml" filepath="$PROJECT_DIR$/BacktoBasics.iml" />
     </modules>
   </component>
 </project>
